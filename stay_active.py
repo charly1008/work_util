@@ -1,6 +1,5 @@
 import pyautogui, time, os
 
-
 while True:
     pyautogui.moveTo(900,200,duration=1)
     time.sleep(2)
